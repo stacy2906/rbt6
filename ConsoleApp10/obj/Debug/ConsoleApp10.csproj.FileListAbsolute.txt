@@ -1,0 +1,8 @@
+\\serv31\Для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp10\bin\Debug\ConsoleApp10.exe.config
+\\serv31\Для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp10\bin\Debug\ConsoleApp10.exe
+\\serv31\Для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp10\bin\Debug\ConsoleApp10.pdb
+\\serv31\Для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.AssemblyReference.cache
+\\serv31\Для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.SuggestedBindingRedirects.cache
+\\serv31\Для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp10\obj\Debug\ConsoleApp10.csproj.CoreCompileInputs.cache
+\\serv31\Для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp10\obj\Debug\ConsoleApp10.exe
+\\serv31\Для сохранения работ\215 группа\Ткачук Анастасия\ConsoleApp10\obj\Debug\ConsoleApp10.pdb
